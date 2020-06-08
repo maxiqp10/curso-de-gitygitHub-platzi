@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+
+header{
+
+    background-color:rgb(37, 37, 73);
+    
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    padding: 10px 5px;
+    
+}
+
+ul{
+    margin: 0px;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+   background-color:rgb(37, 37, 73);
+   text-align: center;
+   color: white;
+
+}
+
+p{
+    color: white    ;
+}
